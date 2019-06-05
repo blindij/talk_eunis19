@@ -1,4 +1,5 @@
-<img src="images/coderef.jpg" style="width:100%;"/>
+background-image: url(images/IMG_0054.jpg)
+<img src="images/Logo_COLOR_2D-01.png" style="width:100%;"/>
 
 ---
 class: center, middle, inverse
@@ -52,7 +53,7 @@ We are working with students, researchers, Research Software Engineers from all 
 We teach tools and practices for the development of reproducible and reusable
 research software during a three-day workshop.
 
-<img src="img/map.jpg" style="width: 50%;"/>
+<img src="images/map.jpg" style="width: 50%;"/>
 
 - https://coderefinery.org
 - https://coderefinery.org/workshops/
