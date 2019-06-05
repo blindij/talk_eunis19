@@ -2,10 +2,11 @@ background-image: url(images/IMG_0054.jpg)
 <img src="images/Logo_COLOR_2D-01.png" style="width:100%;"/>
 
 ---
+
+background-image: url(images/IMG_0054.jpg)
 class: center, middle, inverse
 
 # NeIC's CodeRefinery Project
-<img src="img/snowy.jpg" style="width=100%;"/>
 
 ## Bjørn Lindi, Radovan Bast, Thor Wikfeldt
 
@@ -13,6 +14,7 @@ Nordic e-Infrastructure Collaboration/NTNU, UiT and KTH
 
 ---
 
+background-image: url(images/IMG_0054.jpg)
 ## .blue[Part 1/3]
 
 - The Nordic e-Infrastructure Collaboration
@@ -34,11 +36,17 @@ Nordic e-Infrastructure Collaboration/NTNU, UiT and KTH
 
 # The Nordic e-Infrastructure Collaboration (NeIC)
 
-NeIC is hosted by NordForsk, which provides for and facilitatescooperation on
-research and research infrastructure across the Nordic and Baltic region. In
+background-image: url(images/IMG_0054.jpg)
+<img src="images/NEIC_logo_screen_white.png" style="width:100%;"/>
+NeIC is hosted by NordForsk, which provides for and facilitates cooperation on
+research and research infrastructure across the Nordic and Baltic region.
+<p>
+In
 2018 NeIC
 organized 11 project, of which CodeRefinery is one, with a project staff of 158
-people.
+people from all Nordic countries and Estonia.
+<p>
+NeIC will be the coordinater of the EOSC-Nordic
 
 ---
 
