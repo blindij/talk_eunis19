@@ -53,7 +53,7 @@ background-size: 1600px 900px
 * Say a few words about NeIC and CodeRefinery
 * CodeRefinery do a pre- and post-survey among the workshop participants. We
   will look at the results
-* We will discuss how our experience relatest to the Open Research Life Cycle.
+* We will discuss how our experience relates to the Open Research Life Cycle.
 
 ---
 background-image: url(images/IMG_0054.jpg)
@@ -67,12 +67,12 @@ research and research infrastructure across the Nordic and Baltic region.
 In 2018 NeIC organized 11 project, of which CodeRefinery is one, with a project staff of 158
 people from all Nordic countries and Estonia.
 <p>
-NeIC will be the coordinater of the European Open Science Cloud-Nordic and lead
+NeIC will be the coordinator of the European Open Science Cloud-Nordic and lead
 a Work Package on FAIR data, starting 1 September 2019.
 
 ???
 
-The staff of 158 people are from all the Nordice countries and Estonia
+The staff of 158 people are from all the Nordic countries and Estonia
 
 ---
 
@@ -88,8 +88,8 @@ We are working with students, researchers, Research Software Engineers from all 
 ???
 * CodeRefinery was started late 2016
 * Currently the project is in its second project period, ending autumn 2021
-* The project aim for establishing a network of CodeRefinery instructores (similar to the Carpentries)
-* Findable, Accessible, Interoperable, Reusable - FAIR - https://www.go-fair.org/
+* The project aim for establishing a network of CodeRefinery instructors (similar to the Carpentries)
+* Findable, Accessible, Inter-operable, Reusable - FAIR - https://www.go-fair.org/
 
 ---
 
@@ -116,7 +116,7 @@ research software during a three-day workshop.
 * Reproducible research
 
 ???
-* The format is very similar to the Software Carpentries
+* The format is very similar to the Software Carpentry
 * It is talk, type along, discussions and exercises - all interleaved
 * A lot of focus on Git and GitHub
 * Reproducible research contains exercises with Snakemake, make and using Zenodo, https://zenodo.org/
@@ -126,7 +126,7 @@ research software during a three-day workshop.
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 
-## The CodeRefinery Workshops have been arranged all over the Nordic reigon
+## The CodeRefinery Workshops have been arranged all over the Nordic region
 
 <img src="images/map.jpg" style="width: 50%;"/>
 
@@ -248,14 +248,14 @@ Cycle for it to be viable.
 
 * Software is the twin of data.
 * No FAIR Open Data without FAIR Open Software.
-* The High Energy Physics Software Foundation, HSF is very explict about their
+* The High Energy Physics Software Foundation, HSF is very explicit about their
   dependency on Open Data and Open Software for advancing their field.
 * This is emerging in other disciplines as well, but not so strongly expressed (system biology?)
 * How do our participants fit into this picture?
 
 ---
 
-## Has the Workshops participants' software become more useable?
+## Has the Workshops participants' software become more usable?
 
 <img src="images/yes_no_questions.png" style="width: 60%;"/>
 
@@ -267,7 +267,7 @@ Cycle for it to be viable.
 
 ???
 * To some extent the participants are picking up the tools and methods
-  teached during the workshop
+  taught during the workshop
 
 ---
 background-image: url(images/IMG_0054.jpg)
@@ -285,7 +285,7 @@ background-size: 1600px 900px
   FAIR for both.
 
 ???
-* To get involved in this type of training is a good oppertunity to enage with
+* To get involved in this type of training is a good opportunity to engage with
   people working at the research frontier. Their problems and obstacles are
   challenges for one of a university's core activities.
 * Huge demand for training.
