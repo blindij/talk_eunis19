@@ -51,7 +51,7 @@ In 2018 NeIC organized 11 project, of which CodeRefinery is one, with a project 
 people from all Nordic countries and Estonia.
 <p>
 NeIC will be the coordinater of the European Open Science Cloud-Nordic and lead
-a Work Package on FAIR data, starting 1 September 2019
+a Work Package on FAIR data, starting 1 September 2019.
 
 ---
 
@@ -65,9 +65,9 @@ We are working with students, researchers, Research Software Engineers from all 
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
 
 ???
-* CodeRefinery was started late 2018
+* CodeRefinery was started late 2016
 * Currently the project is in its second project period, ending autumn 2021
-* The project aim for establishing a network of CodeRefinery teachers (similar to the Carpentries)
+* The project aim for establishing a network of CodeRefinery instructores (similar to the Carpentries)
 
 ---
 
@@ -145,6 +145,18 @@ background-size: 1600px 900px
 
 ---
 
+## The Workshop participants experience with automated testing
+
+<img src"images/automated-testing.png" style="width: 100%;"/>
+
+???
+There is some clear parallels between code review and automated testing on the
+software side and part of the scientific process on other side:
+- peer review
+- calibration
+
+---
+
 ## Peer review of paper is a established principle
 
 <img src="images/sharing-papers.jpg" style="width: 100%;"/>
@@ -157,9 +169,47 @@ background-size: 1600px 900px
 
 ---
 
+## Simulations and analysis with untested software do not constitute science
+
+"Before relying on a new experimental device, an experimental scientist always
+establishes its accuracy. A new detector is calibrated when the scientist
+observes its responses to known input signals. The results of this
+calibration are compared against the expected response. **An experimental
+scientist would never conduct an experiment with uncalibrated detectors** - that
+would be unscientific. So too, simulations and analysis with untested
+software do not constitute science."
+(copied from [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/),
+created by Kathryn Huff, see also the Testing chapter in
+[Effective Computation In Physics](http://physics.codes) by Anthony Scopatz and Kathryn Huff)
+
+
+???
+Compare these two:
+
+.quote["I don't have time to learn tool X, I am a chemist"]
+.cite[developer of QC code]
+
+.quote["I don't have time to learn how the instrument works, I am a chemist"]
+.cite[experimental spectroscopist]
+
+Compare these two:
+
+.quote["we don't need tests, we are not a software company"]
+
+.quote["we don't need a NMR calibration sample, we are not a pharma company"]
+
+Software is logical machine/device
+---
+
 ## The Open Science Research life cycle
 
 <img src="images/OpenScienceResearchInitiative-ResearchLifecycle.png" style="width:90%;"/>
+
+???
+There is very little mentioning of FAIR software when Open Access and Open Data
+is discussed.
+Code Review and Automated testing is core to the Open Science Research Life
+Cycle to be viable.
 
 ---
 
