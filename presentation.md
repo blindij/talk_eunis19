@@ -15,7 +15,7 @@ class: center, middle, inverse
 
 ## Bjørn Lindi, Radovan Bast, Thor Wikfeldt
 
-Nordic e-Infrastructure Collaboration/NTNU, UiT and KTH
+Nordic e-Infrastructure Collaboration/(NTNU, UiT and KTH)
 
 ---
 
@@ -25,18 +25,18 @@ background-size: 1600px 900px
 
 - The Nordic e-Infrastructure Collaboration
 - CodeRefinery
-- What are CodeRefinery doing?
+- What are we(CodeRefinery) doing?
 
 ## .blue[Part 2/3]
 
-- The CodeRefinery Workshop participant
 - The CodeRefinery Content and Format
-- What are our experience?
+- The background of the CodeRefinery Workshop participant
+- Parallels between the research process and program development
 
 ## .blue[Part 3/3]
-- Research - a software and data driven process!(?)
-- Research - collaborative effort
-- Recommendations
+- Open Data and Open Software and the scientific process
+- Are the tools used after a while?
+- Recommendations/Conclusions
 
 ---
 background-image: url(images/IMG_0054.jpg)
@@ -74,7 +74,7 @@ We are working with students, researchers, Research Software Engineers from all 
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 
-## How are CodeRefinery working with all these people?
+## How are we (CodeRefinery) working with all these people?
 
 We teach tools and practices for the development of reproducible and reusable
 research software during a three-day workshop.
@@ -122,7 +122,7 @@ background-size: 1600px 900px
 
 ---
 
-## The Workshops participants has a varied background
+## The Workshops participants have a varied background
 
 <img src="images/position_pie.png" style="width: 125%;"/>
 
@@ -147,7 +147,7 @@ background-size: 1600px 900px
 
 ## The Workshop participants experience with automated testing
 
-<img src"images/automated-testing.png" style="width: 100%;"/>
+<img src="images/automated-testing.png" style="width: 100%;"/>
 
 ???
 There is some clear parallels between code review and automated testing on the
@@ -234,7 +234,7 @@ Cycle to be viable.
 
 ---
 
-## How are the Workshops participants use the different tools CodeRefinery has introduced?
+## Are the Workshops participants using the different tools CodeRefinery has introduced?
 
 <img src="images/heatmap.png" style="width: 60%;"/>
 
@@ -257,8 +257,7 @@ background-size: 1600px 900px
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
-- CodeRefinery on GitHub: https://github.com/coderefinery
-- CodeRefinery Twitter https://twitter.com/coderefine
-<p>
-- This presentation is done with cicero:https://cicero.readthedocs.io/en/latest/getting_started.html
+### https://www.coderefinery.org
+
+- This talks is presented with cicero:https://cicero.readthedocs.io/en/latest/getting_started.html
 - PDF and source is on https://github.com/blindij/talk_eunis19
