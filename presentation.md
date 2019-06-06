@@ -217,15 +217,48 @@ Cycle to be viable.
 
 <img src="images/OpenScienceProcessing.jpg" style="width: 90%;"/>
 
+???
+
+* Software is the twin of data.
+* No FAIR Open Data without FAIR Open Software.
+* The High Energy Physics Software Foundation, HSF is very explict about their
+  dependency on Open Data and Open Software for advancing their field.
+* This is emerging in other disciplines as well, but not so strongly expressed (system biology?)
+* How do our participants fit into this picture?
+
 ---
+
+## Has the Workshops participants' software become more useable?
+
+<img src="images/yes_no_questions.png" style="width: 60%;"/>
+
+---
+
+## How are the Workshops participants use the different tools CodeRefinery has introduced?
+
+<img src="images/heatmap.png" style="width: 60%;"/>
+
+---
+background-image: url(images/IMG_0054.jpg)
+background-size: 1600px 900px
 
 ## CodeRefinery recommendations
 
-* Encourage students/staff to take training
+* Encourage students/staff to take training.
 * Support training activities; take part in the Software Carpentries and
-  CodeRefinery
-* Encourage sharing and open source
+  CodeRefinery; contribute to a network of instructors.
+* Encourage sharing and open source.
 * Promote FAIR-principles, not only by talks and presentations - use the
-  principles in pilot projects
+  principles in pilot projects.
 * FAIR principles apply both to humans and machines - data and software must be
-  FAIR for both
+  FAIR for both.
+
+---
+background-image: url(images/IMG_0054.jpg)
+background-size: 1600px 900px
+<img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
+- CodeRefinery on GitHub: https://github.com/coderefinery
+- CodeRefinery Twitter https://twitter.com/coderefine
+<p>
+- This presentation is done with cicero:https://cicero.readthedocs.io/en/latest/getting_started.html
+- PDF and source is on https://github.com/blindij/talk_eunis19
