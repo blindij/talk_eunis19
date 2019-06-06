@@ -1,6 +1,13 @@
 
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
+<img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
+# http://bit.ly/coderefinery-eunis19
+
+---
+
+background-image: url(images/IMG_0054.jpg)
+background-size: 1600px 900px
 class: center, middle, inverse
 <img src="images/NEIC_logo_screen_white.png" style="width:100%;"/>
 
@@ -43,7 +50,8 @@ research and research infrastructure across the Nordic and Baltic region.
 In 2018 NeIC organized 11 project, of which CodeRefinery is one, with a project staff of 158
 people from all Nordic countries and Estonia.
 <p>
-NeIC will be the coordinater of the EOSC-Nordic
+NeIC will be the coordinater of the European Open Science Cloud-Nordic and lead
+a Work Package on FAIR data, starting 1 September 2019
 
 ---
 
@@ -65,6 +73,8 @@ background-size: 1600px 900px
 
 We teach tools and practices for the development of reproducible and reusable
 research software during a three-day workshop.
+
+--
 
 ## The content of the workshop is
 * Basic and collaborative Git
@@ -130,6 +140,18 @@ background-size: 1600px 900px
 ## Peer review of code is very close, but much less common
 
 <img src="images/sharing-code.jpg" style="width: 100%;"/>
+
+---
+
+## The Open Science Research life cycle
+
+<img src="images/OpenScienceResearchInitiative-ResearchLifecycle.png" style="width:90%;"/>
+
+---
+
+## A closer look at the Process part of the Research life cycle
+
+<img src="images/OpenScienceProcessing.jpg" style="width: 100%;"/>
 
 ---
 
