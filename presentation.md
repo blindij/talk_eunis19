@@ -42,7 +42,7 @@ background-size: 1600px 900px
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 
-# The Nordic e-Infrastructure Collaboration (NeIC)
+<img src="images/NEIC_logo_screen_white.png" style="width:100%;"/>
 
 NeIC is hosted by NordForsk, which provides for and facilitates cooperation on
 research and research infrastructure across the Nordic and Baltic region.
@@ -51,7 +51,7 @@ In 2018 NeIC organized 11 project, of which CodeRefinery is one, with a project 
 people from all Nordic countries and Estonia.
 <p>
 NeIC will be the coordinater of the European Open Science Cloud-Nordic and lead
-a Work Package on FAIR data, starting 1 September 2019
+a Work Package on FAIR data, starting 1 September 2019.
 
 ---
 
@@ -63,6 +63,11 @@ background-size: 1600px 900px
 We are working with students, researchers, Research Software Engineers from all disciplines and national e-infrastructure partners to advance FAIRness of Software management and development practices so that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.
 
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
+
+???
+* CodeRefinery was started late 2016
+* Currently the project is in its second project period, ending autumn 2021
+* The project aim for establishing a network of CodeRefinery instructores (similar to the Carpentries)
 
 ---
 
@@ -88,6 +93,10 @@ research software during a three-day workshop.
 * Modular code development
 * Reproducible research
 
+???
+* The format is very similar to the Software Carpentries
+* It is talk, type along, discussions and exercises - all interleaved
+
 ---
 
 background-image: url(images/IMG_0054.jpg)
@@ -99,6 +108,11 @@ background-size: 1600px 900px
 
 - https://coderefinery.org
 - https://coderefinery.org/workshops/
+
+???
+* Currently more than 20 workshops all over the Nordic Region + Estonia
+* Approx. 600 people have been Workshop participants
+* Four workshops this month (Chalmers, Univ. Helsinki, Univ. of Oslo, Univ. of Alborg) 
 
 ---
 
@@ -131,6 +145,18 @@ background-size: 1600px 900px
 
 ---
 
+## The Workshop participants experience with automated testing
+
+<img src"images/automated-testing.png" style="width: 100%;"/>
+
+???
+There is some clear parallels between code review and automated testing on the
+software side and part of the scientific process on other side:
+- peer review
+- calibration
+
+---
+
 ## Peer review of paper is a established principle
 
 <img src="images/sharing-papers.jpg" style="width: 100%;"/>
@@ -143,22 +169,96 @@ background-size: 1600px 900px
 
 ---
 
+## Simulations and analysis with untested software do not constitute science
+
+"Before relying on a new experimental device, an experimental scientist always
+establishes its accuracy. A new detector is calibrated when the scientist
+observes its responses to known input signals. The results of this
+calibration are compared against the expected response. **An experimental
+scientist would never conduct an experiment with uncalibrated detectors** - that
+would be unscientific. So too, simulations and analysis with untested
+software do not constitute science."
+(copied from [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/),
+created by Kathryn Huff, see also the Testing chapter in
+[Effective Computation In Physics](http://physics.codes) by Anthony Scopatz and Kathryn Huff)
+
+
+???
+Compare these two:
+
+.quote["I don't have time to learn tool X, I am a chemist"]
+.cite[developer of QC code]
+
+.quote["I don't have time to learn how the instrument works, I am a chemist"]
+.cite[experimental spectroscopist]
+
+Compare these two:
+
+.quote["we don't need tests, we are not a software company"]
+
+.quote["we don't need a NMR calibration sample, we are not a pharma company"]
+
+Software is logical machine/device
+---
+
 ## The Open Science Research life cycle
 
 <img src="images/OpenScienceResearchInitiative-ResearchLifecycle.png" style="width:90%;"/>
+
+???
+There is very little mentioning of FAIR software when Open Access and Open Data
+is discussed.
+Code Review and Automated testing is core to the Open Science Research Life
+Cycle to be viable.
 
 ---
 
 ## A closer look at the Process part of the Research life cycle
 
-<img src="images/OpenScienceProcessing.jpg" style="width: 100%;"/>
+<img src="images/OpenScienceProcessing.jpg" style="width: 90%;"/>
+
+???
+
+* Software is the twin of data.
+* No FAIR Open Data without FAIR Open Software.
+* The High Energy Physics Software Foundation, HSF is very explict about their
+  dependency on Open Data and Open Software for advancing their field.
+* This is emerging in other disciplines as well, but not so strongly expressed (system biology?)
+* How do our participants fit into this picture?
 
 ---
 
-## CodeRefinery
+## Has the Workshops participants' software become more useable?
 
-- We have trained .emph[over 550 students and researchers]
-- Across all academic disciplines
-- Funding for 2.5 more years
+<img src="images/yes_no_questions.png" style="width: 60%;"/>
 
+---
 
+## How are the Workshops participants use the different tools CodeRefinery has introduced?
+
+<img src="images/heatmap.png" style="width: 60%;"/>
+
+---
+background-image: url(images/IMG_0054.jpg)
+background-size: 1600px 900px
+
+## CodeRefinery recommendations
+
+* Encourage students/staff to take training.
+* Support training activities; take part in the Software Carpentries and
+  CodeRefinery; contribute to a network of instructors.
+* Encourage sharing and open source.
+* Promote FAIR-principles, not only by talks and presentations - use the
+  principles in pilot projects.
+* FAIR principles apply both to humans and machines - data and software must be
+  FAIR for both.
+
+---
+background-image: url(images/IMG_0054.jpg)
+background-size: 1600px 900px
+<img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
+- CodeRefinery on GitHub: https://github.com/coderefinery
+- CodeRefinery Twitter https://twitter.com/coderefine
+<p>
+- This presentation is done with cicero:https://cicero.readthedocs.io/en/latest/getting_started.html
+- PDF and source is on https://github.com/blindij/talk_eunis19
