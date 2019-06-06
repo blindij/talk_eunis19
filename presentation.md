@@ -42,7 +42,7 @@ background-size: 1600px 900px
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 
-# The Nordic e-Infrastructure Collaboration (NeIC)
+<img src="images/NEIC_logo_screen_white.png" style="width:100%;"/>
 
 NeIC is hosted by NordForsk, which provides for and facilitates cooperation on
 research and research infrastructure across the Nordic and Baltic region.
@@ -63,6 +63,11 @@ background-size: 1600px 900px
 We are working with students, researchers, Research Software Engineers from all disciplines and national e-infrastructure partners to advance FAIRness of Software management and development practices so that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.
 
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
+
+???
+* CodeRefinery was started late 2018
+* Currently the project is in its second project period, ending autumn 2021
+* The project aim for establishing a network of CodeRefinery teachers (similar to the Carpentries)
 
 ---
 
@@ -88,6 +93,10 @@ research software during a three-day workshop.
 * Modular code development
 * Reproducible research
 
+???
+* The format is very similar to the Software Carpentries
+* It is talk, type along, discussions and exercises - all interleaved
+
 ---
 
 background-image: url(images/IMG_0054.jpg)
@@ -99,6 +108,11 @@ background-size: 1600px 900px
 
 - https://coderefinery.org
 - https://coderefinery.org/workshops/
+
+???
+* Currently more than 20 workshops all over the Nordic Region + Estonia
+* Approx. 600 people have been Workshop participants
+* Four workshops this month (Chalmers, Univ. Helsinki, Univ. of Oslo, Univ. of Alborg) 
 
 ---
 
@@ -151,14 +165,17 @@ background-size: 1600px 900px
 
 ## A closer look at the Process part of the Research life cycle
 
-<img src="images/OpenScienceProcessing.jpg" style="width: 100%;"/>
+<img src="images/OpenScienceProcessing.jpg" style="width: 90%;"/>
 
 ---
 
-## CodeRefinery
+## CodeRefinery recommendations
 
-- We have trained .emph[over 550 students and researchers]
-- Across all academic disciplines
-- Funding for 2.5 more years
-
-
+* Encourage students/staff to take training
+* Support training activities; take part in the Software Carpentries and
+  CodeRefinery
+* Encourage sharing and open source
+* Promote FAIR-principles, not only by talks and presentations - use the
+  principles in pilot projects
+* FAIR principles apply both to humans and machines - data and software must be
+  FAIR for both
