@@ -4,6 +4,10 @@ background-size: 1600px 900px
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
 # http://bit.ly/coderefinery-eunis19
 
+???
+Mention the link
+Restart timer with t
+
 ---
 
 background-image: url(images/IMG_0054.jpg)
@@ -17,8 +21,14 @@ class: center, middle, inverse
 
 Nordic e-Infrastructure Collaboration/(NTNU, UiT and KTH)
 
----
+???
 
+Do a Present: 
+- Radovon, work at the HPC-group at UiT, The project manger of CodeRefinery
+- Thor, work at PDC at KTH
+- yourself - work at the HPC-group at NTNU, participate in different NeIC projects
+
+--- 
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 ## .blue[Part 1/3]
@@ -38,6 +48,13 @@ background-size: 1600px 900px
 - Are the tools used after a while?
 - Recommendations/Conclusions
 
+???
+
+* Say a few words about NeIC and CodeRefinery
+* CodeRefinery do a pre- and post-survey among the workshop participants. We
+  will look at the results
+* We will discuss how our experience relatest to the Open Research Life Cycle.
+
 ---
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
@@ -52,6 +69,10 @@ people from all Nordic countries and Estonia.
 <p>
 NeIC will be the coordinater of the European Open Science Cloud-Nordic and lead
 a Work Package on FAIR data, starting 1 September 2019.
+
+???
+
+The staff of 158 people are from all the Nordice countries and Estonia
 
 ---
 
@@ -68,6 +89,7 @@ We are working with students, researchers, Research Software Engineers from all 
 * CodeRefinery was started late 2016
 * Currently the project is in its second project period, ending autumn 2021
 * The project aim for establishing a network of CodeRefinery instructores (similar to the Carpentries)
+* Findable, Accessible, Interoperable, Reusable - FAIR - https://www.go-fair.org/
 
 ---
 
@@ -96,6 +118,8 @@ research software during a three-day workshop.
 ???
 * The format is very similar to the Software Carpentries
 * It is talk, type along, discussions and exercises - all interleaved
+* A lot of focus on Git and GitHub
+* Reproducible research contains exercises with Snakemake, make and using Zenodo, https://zenodo.org/
 
 ---
 
@@ -119,6 +143,10 @@ background-size: 1600px 900px
 ## The Workshops participants comes from many disciplines 
 
 <img src="images/scientific-discipline.png" style="width: 80%;"/>
+
+???
+* Good representation from traditional computational disciplines.
+* Many disciplines represented, though
 
 ---
 
@@ -198,7 +226,7 @@ Compare these two:
 
 .quote["we don't need a NMR calibration sample, we are not a pharma company"]
 
-Software is logical machine/device
+Software is a logical machine/device
 ---
 
 ## The Open Science Research life cycle
@@ -206,10 +234,9 @@ Software is logical machine/device
 <img src="images/OpenScienceResearchInitiative-ResearchLifecycle.png" style="width:90%;"/>
 
 ???
-There is very little mentioning of FAIR software when Open Access and Open Data
-is discussed.
-Code Review and Automated testing is core to the Open Science Research Life
-Cycle to be viable.
+- There is very little mentioning of FAIR software when Open Access and Open Data is discussed.
+- Code Review and Automated testing will be central to the Open Science Research Life
+Cycle for it to be viable.
 
 ---
 
@@ -238,6 +265,10 @@ Cycle to be viable.
 
 <img src="images/heatmap.png" style="width: 60%;"/>
 
+???
+* To some extent the participants are picking up the tools and methods
+  teached during the workshop
+
 ---
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
@@ -252,6 +283,12 @@ background-size: 1600px 900px
   principles in pilot projects.
 * FAIR principles apply both to humans and machines - data and software must be
   FAIR for both.
+
+???
+* To get involved in this type of training is a good oppertunity to enage with
+  people working at the research frontier. Their problems and obstacles are
+  challenges for one of a university's core activities.
+* Huge demand for training.
 
 ---
 background-image: url(images/IMG_0054.jpg)
