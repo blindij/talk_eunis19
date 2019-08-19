@@ -2,11 +2,12 @@
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
-# http://bit.ly/coderefinery-eunis19
+# http://bit.ly/coderefinery-sommer-ntnuit
 
 ???
-Mention the link
+Check screen, that output has a twin
 Restart timer with t
+The presentation is available at the Bitly-link
 
 ---
 
@@ -25,37 +26,11 @@ Nordic e-Infrastructure Collaboration/(NTNU, UiT and KTH)
 
 Do a presentation: 
 - Radovan, work at Seksjonen for forskningstjenester at UiT, The project manger of CodeRefinery
-- Thor, work at PDC at KTH
+- Thor, work at PDC(parallelldatorcentrum) at KTH
 - yourself - work at the HPC-group at NTNU, participate in different NeIC projects
 
---- 
-background-image: url(images/IMG_0054.jpg)
-background-size: 1600px 900px
-## .blue[Part 1/3]
-
-- The Nordic e-Infrastructure Collaboration
-- CodeRefinery
-- What are we(CodeRefinery) doing?
-
-## .blue[Part 2/3]
-
-- The CodeRefinery Content and Format
-- The background of the CodeRefinery Workshop participant
-- Parallels between the research process and program development
-
-## .blue[Part 3/3]
-- Open Data and Open Software and the scientific process
-- Are the tools used after a while?
-- Recommendations/Conclusions
-
-???
-
-* Say a few words about NeIC and CodeRefinery
-* CodeRefinery do a pre- and post-survey among the workshop participants. We
-  will look at the results
-* We will discuss how our experience relates to the Open Research Life Cycle.
-
 ---
+
 background-image: url(images/IMG_0054.jpg)
 background-size: 1600px 900px
 
@@ -72,7 +47,9 @@ a Work Package on FAIR data, starting 1 September 2019.
 
 ???
 
-The staff of 158 people are from all the Nordic countries and Estonia
+NeIC started 2012/2013. First it organized the Nordic efforts (compute 
+and storage) provided to CERN as a Tier-1 centre. Currently, there is several other projects
+and growing/expanding with project funded by EU from September 2019.
 
 ---
 
@@ -81,15 +58,15 @@ background-size: 1600px 900px
 
 ## CodeRefinery
 
-We are working with students, researchers, Research Software Engineers from all disciplines and national e-infrastructure partners to advance FAIRness of Software management and development practices so that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.
+We are working with students, researchers, Research Software Engineers from all disciplines and national e-infrastructure partners to advance FAIRness of research software (FAIR = findable, accessible, inter-operable, reusable). Our objective is to promote software management and development practices such that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.
 
 <img src="images/Logo_COLOR_2D-01.png" style="width:75%;"/>
 
 ???
+* Findable, Accessible, Inter-operable, Reusable - FAIR - https://www.go-fair.org/
 * CodeRefinery was started late 2016
 * Currently the project is in its second project period, ending autumn 2021
 * The project aim for establishing a network of CodeRefinery instructors (similar to the Carpentries)
-* Findable, Accessible, Inter-operable, Reusable - FAIR - https://www.go-fair.org/
 
 ---
 
@@ -136,7 +113,8 @@ background-size: 1600px 900px
 ???
 * Currently more than 20 workshops all over the Nordic Region + Estonia
 * Approx. 600 people have been Workshop participants
-* Four workshops this month (Chalmers, Univ. Helsinki, Univ. of Oslo, Univ. of Alborg) 
+* Four workshops this May and June: Chalmers, Univ. Helsinki, Univ. of Oslo, Univ. of Alborg 
+* This autumn: NTNU, KTH (Stockholm), Univ i Aarhus, Aalto (Espoo)
 
 ---
 
