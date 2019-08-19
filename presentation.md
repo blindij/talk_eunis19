@@ -23,8 +23,8 @@ Nordic e-Infrastructure Collaboration/(NTNU, UiT and KTH)
 
 ???
 
-Do a Present: 
-- Radovon, work at the HPC-group at UiT, The project manger of CodeRefinery
+Do a presentation: 
+- Radovan, work at Seksjonen for forskningstjenester at UiT, The project manger of CodeRefinery
 - Thor, work at PDC at KTH
 - yourself - work at the HPC-group at NTNU, participate in different NeIC projects
 
@@ -175,13 +175,29 @@ background-size: 1600px 900px
 
 ## The Workshop participants experience with automated testing
 
-<img src="images/automated-testing.png" style="width: 100%;"/>
+<img src="images/automated-testing.png" style="width: 80%;"/>
 
 ???
 There is some clear parallels between code review and automated testing on the
 software side and part of the scientific process on other side:
 - peer review
 - calibration
+
+---
+
+## CodeRefinery's objectives examplified
+
+<img src="images/git-jakob-lass-rtd.png" style="width: 60%;"/>
+
+???
+Jakob Lass is a PhD student at the Physics Department, NTNU. He participated in one of the workshops in 2018
+What has he done?
+- The code is publicly available from Github
+- Licensed his software under Mozilla General Public 2.0 license
+- Established automatic testing
+- Documentation is available at Read The Docs
+
+He wrote to Radovan this summer, expressing his gratitude.
 
 ---
 
