@@ -163,7 +163,7 @@ software side and part of the scientific process on other side:
 
 ---
 
-## CodeRefinery's objectives examplified
+## CodeRefinery's objective examplified
 
 <img src="images/git-jakob-lass-rtd.png" style="width: 60%;"/>
 
@@ -171,7 +171,7 @@ software side and part of the scientific process on other side:
 Jakob Lass is a PhD student at the Physics Department, NTNU. He participated in one of the workshops in 2018
 What has he done?
 - The code is publicly available from Github
-- Licensed his software under Mozilla General Public 2.0 license
+- The code is licensed under Mozilla General Public 2.0 
 - Established automatic testing
 - Documentation is available at Read The Docs
 
