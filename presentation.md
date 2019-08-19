@@ -179,16 +179,21 @@ He wrote to Radovan this summer, expressing his gratitude.
 
 ---
 
-## Peer review of paper is a established principle
+## Sharing of papers is a established principle
 
 <img src="images/sharing-papers.jpg" style="width: 100%;"/>
 
+???
 ---
 
-## Peer review of code is very close, but much less common
+## Sharing code is almost the same, but much less common
 
 <img src="images/sharing-code.jpg" style="width: 100%;"/>
 
+???
+- Licensing considerations; no license, copyright vs copy-left
+- Verfication of code -> automatic testing
+- Make your code available to be used
 ---
 
 ## Simulations and analysis with untested software do not constitute science
@@ -206,21 +211,16 @@ created by Kathryn Huff, see also the Testing chapter in
 
 
 ???
-Compare these two:
 
-.quote["I don't have time to learn tool X, I am a chemist"]
-.cite[developer of QC code]
-
-.quote["I don't have time to learn how the instrument works, I am a chemist"]
-.cite[experimental spectroscopist]
-
-Compare these two:
-
-.quote["we don't need tests, we are not a software company"]
-
-.quote["we don't need a NMR calibration sample, we are not a pharma company"]
-
+## Why do some researchers prefer not to share?
+* Fear of being scoped
+* Exposes possibly "ugly code"
+* Others may find bugs
+* Others may require support and ask to many questions
+* Fear of losing control
+* "Bad" derivative projects may appear
 Software is a logical machine/device
+
 ---
 
 ## The Open Science Research life cycle
@@ -228,10 +228,11 @@ Software is a logical machine/device
 <img src="images/OpenScienceResearchInitiative-ResearchLifecycle.png" style="width:90%;"/>
 
 ???
+- Explain figure from 9 o'clock
 - There is very little mentioning of FAIR software when Open Access and Open Data is discussed.
 - Code Review and Automated testing will be central to the Open Science Research Life
 Cycle for it to be viable.
-
+- "Processing - expanded" is next
 ---
 
 ## A closer look at the Process part of the Research life cycle
@@ -281,7 +282,7 @@ background-size: 1600px 900px
 ???
 * To get involved in this type of training is a good opportunity to engage with
   people working at the research frontier. Their problems and obstacles are
-  challenges for one of a university's core activities.
+  challenges for a core activity at any university.
 * Huge demand for training.
 
 ---
@@ -292,3 +293,11 @@ background-size: 1600px 900px
 
 - This talks is presented with cicero:https://cicero.readthedocs.io/en/latest/getting_started.html
 - PDF and source is on https://github.com/blindij/talk_eunis19
+
+???
+## Establishing a culture and the need for training
+- We need to support a culture for sharing
+- Encourage, credit and eventually expect openness
+- Challenge for students, researchers, PIs, editors, referees, funding bodies, and hiring committees.
+- Training is critical
+- Respect towards the domain, tools and staff
