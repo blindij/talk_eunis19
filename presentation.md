@@ -128,30 +128,30 @@ background-size: 1600px 900px
 
 ---
 
-## The Workshops participants have a varied background
+## The Workshops participants have a varied educational background
 
 <img src="images/position_pie.png" style="width: 125%;"/>
 
 ---
-## Programming experience is very varied
+## The Workshop participants have programming experience
 
 <img src="images/programming-experience.png" style="width: 75%;"/>
 
 ---
 
-## The Workshop participants exposure to version control
+## The Workshop participants use version control to some extent
 
 <img src="images/version-control.png" style="width: 75%;"/>
 
 ---
 
-## The Workshop participants experience with code review
+## The Workshop participants have little experience with code review
 
 <img src="images/code-review.png" style="width: 75%;"/>
 
 ---
 
-## The Workshop participants experience with automated testing
+## The Workshop participants have little experience with automated testing
 
 <img src="images/automated-testing.png" style="width: 80%;"/>
 
